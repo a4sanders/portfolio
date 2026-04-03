@@ -4,12 +4,3 @@ body {
 	 */
   font: 100%/1.5 system-ui;
 }
-.image-container {
-  display: flex;
-  justify-content: center; /* Centers the images */
-  gap: 10px;               /* Adds space between them */
-}
-.image-container img {
-  width: 45%;              /* Adjust width as needed */
-  height: auto;            /* Maintains aspect ratio */
-}
